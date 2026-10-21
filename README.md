@@ -1,49 +1,56 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&text=SCOTT.M&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=DEVELOPER%20%7C%20CREATOR&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0d1117&text=SCOTT.M&fontColor=ffffff&fontSize=48&fontAlignY=50&desc=Developer%20%7C%20Creator&descAlignY=78&descSize=14" width="100%" />
 </p>
 
-<h2 align="center">Desenvolvimento • Tecnologia • Criatividade</h2>
+<h3 align="center">Desenvolvedor em constante evolução.</h3>
 
 <p align="center">
-  Criando projetos, bots e ferramentas digitais.
-</p>
-
-<p align="center">
-  <a href="https://github.com/salvatoriz?tab=repositories">
-    <img src="https://img.shields.io/badge/MEUS_PROJETOS-161b22?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  Transformando ideias em projetos reais, explorando tecnologias e aprendendo algo novo a cada linha de código.
 </p>
 
 ---
 
-## Sobre mim
+### 🇧🇷 Sobre mim
 
-- Desenvolvedor independente.
-- Interessado em desenvolvimento web e automação.
-- Criando ferramentas e bots para Discord.
-- Sempre aprendendo e desenvolvendo novos projetos.
+Olá! Sou Scott.m, tenho 17 anos e sou apaixonado por tecnologia, programação e criação de projetos digitais.
 
-## Tecnologias
+Gosto de experimentar ideias, desenvolver minhas próprias ferramentas e descobrir novas maneiras de resolver problemas com código. Estou construindo minha jornada na programação, evoluindo aos poucos e transformando o que aprendo em projetos práticos.
 
-<p align="center">
+- 💻 Tenho interesse em desenvolvimento web e programação.
+- 🤖 Gosto de criar bots e ferramentas para Discord.
+- 🌐 Exploro a criação de sites, interfaces e aplicações.
+- 🛠️ Aprendo experimentando, testando e melhorando meus projetos.
+- 🚀 Meu objetivo é desenvolver projetos cada vez melhores e ampliar meus conhecimentos.
+- 🌱 Estou sempre aberto a aprender novas tecnologias e explorar novas ideias.
+
+### 🎯 No que estou trabalhando
+
+Atualmente, meu foco é desenvolver projetos próprios, experimentar novas ferramentas e melhorar minhas habilidades de programação. Gosto de entender como as coisas funcionam e usar esse conhecimento para criar soluções úteis.
+
+### 🧰 Tecnologias e ferramentas
+
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,vscode&theme=dark" />
 </p>
 
-## Estatísticas do GitHub
+### 📂 Meus projetos
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=salvatoriz&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvatoriz&layout=compact&theme=github_dark&hide_border=true" />
+No meu GitHub você encontra experimentos, projetos pessoais, ferramentas e outras ideias que desenvolvo durante meu aprendizado.
+
+<p>
+  <a href="https://github.com/salvatoriz?tab=repositories">
+    <img src="https://img.shields.io/badge/Explorar%20reposit%C3%B3rios-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-## Atividade
+### 📈 Minha jornada
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=salvatoriz&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub" />
-</p>
+Acredito que programação se aprende praticando. Cada projeto é uma oportunidade de aprender algo novo, corrigir erros, testar possibilidades e evoluir como desenvolvedor.
+
+Ainda tenho muito a aprender, mas estou sempre buscando melhorar, construir coisas interessantes e transformar minhas ideias em realidade.
 
 ---
 
 <p align="center">
-  <i>Transformando ideias em código.</i>
+  <i>Um projeto de cada vez. Uma linha de código de cada vez.</i>
 </p>
